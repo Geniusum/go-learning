@@ -9,7 +9,7 @@ Le langage Go est organisé en packages, quand on fait un fichier `.go`, on doit
 
 On utilisera souvent `package main`.
 
-Quand on fait `import`, on peut importer un (chaque package est appelé entre ") ou plusieurs packages (entre parenthèse).
+Quand on fait `import`, on l'écrit comme une fonction, on peut importer un (chaque package est appelé entre ") ou plusieurs packages (entre parenthèse).
 
 `func name(<params>){/* Code */}` Pour faire une fonction.
 
